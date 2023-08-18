@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.E.E. in Electrical Engineering and Minor in Physics, Louisiana Tech University, 2020
+* M.S. in Computer Engineering, Virginia Tech, 2022
+* Ph.D in Computer Engineering, Virginia Tech, 2024 (expected)
 
 Work experience
 ======
