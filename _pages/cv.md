@@ -13,7 +13,7 @@ Education
 ======
 * B.S.E.E. in Electrical Engineering and Minor in Physics, Louisiana Tech University, 2020
 * M.S. in Computer Engineering, Virginia Tech, 2022
-* Ph.D in Computer Engineering, Virginia Tech, 2024 (expected)
+* Ph.D. in Computer Engineering, Virginia Tech, 2024 (expected)
 
 Work experience
 ======
